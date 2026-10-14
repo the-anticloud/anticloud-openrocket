@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:92b9c2f1-e4bf-5794-a767-427b46ddcb73",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-05T17:38:25Z",
+    "component": {
+      "type": "application",
+      "name": "OPENROCKET",
+      "version": "259ba462a4bf",
+      "bom-ref": "pkg:generic/anticloud/OPENROCKET@259ba462a4bf",
+      "purl": "pkg:generic/anticloud/OPENROCKET@259ba462a4bf",
+      "licenses": [
+        {
+          "license": {
+            "id": "GPL-3.0"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "259ba462a4bfeda676af9f9cf018ad3f1a9148c8"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/openrocket/openrocket"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
